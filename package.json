@@ -1,0 +1,32 @@
+{
+  "name": "tilt-websockets-node",
+  "version": "1.0.1",
+  "description": "Nodejs Command Line Utility to read Tilt Hydrometers",
+  "main": "index.js",
+  "dependencies": {
+    "bleacon": "^0.4.0",
+    "commander": "^2.9.0",
+    "path": "^0.12.7",
+    "socket.io": "^1.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbryant/tilt-websockets-node.git"
+  },
+  "bin": {
+    "tilt-websockets-node": "tilt-websockets-node.js"
+  },
+  "keywords": [
+    "tilt",
+    "brew",
+    "beer",
+    "hydrometer",
+    "fermentation"
+  ],
+  "author": "Tyler Bryant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbryant/tilt-websockets-node/issues"
+  },
+  "homepage": "https://github.com/tbryant/tilt-websockets-node#readme"
+}
