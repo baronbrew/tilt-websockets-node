@@ -1,6 +1,6 @@
 {
   "name": "tilt-websockets-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nodejs Command Line Utility to read Tilt Hydrometers",
   "main": "index.js",
   "dependencies": {
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/tbryant/tilt-websockets-node.git"
   },
   "bin": {
-    "tilt-websockets-node": "tilt-websockets-node.js"
+    "tilt-websockets-node": "app.js"
   },
   "keywords": [
     "tilt",
